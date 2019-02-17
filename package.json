@@ -1,0 +1,20 @@
+{
+  "name": "decentralized-star-notary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.2",
+    "truffle": "^5.0.4",
+    "truffle-hdwallet-provider": "^1.0.2"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Hassen Ben Tanfous",
+  "license": "ISC",
+  "devDependencies": {
+    "bignumber.js": "^8.0.2",
+    "truffle-assertions": "^0.8.0"
+  }
+}
